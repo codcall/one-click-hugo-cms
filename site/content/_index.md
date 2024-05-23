@@ -1,7 +1,7 @@
 ---
-title: Test website for the Whitby Lifeboat
-subtitle: The RNLI is the charity that saves lives at sea in an emergency always call 999
-image: /img/home-jumbotron.jpg
+title: Test site for Whtiby Lifeboat
+subtitle: Saving lives at sea. Aways ring 999 in an emergency
+image: img/lifeboat-heroshannon.jpg
 blurb:
   heading: <>
   text: Some text goes here.
