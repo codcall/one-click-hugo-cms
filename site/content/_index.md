@@ -3,8 +3,17 @@ title: Test site for Whtiby Lifeboat
 subtitle: Saving lives at sea. Aways ring 999 in an emergency
 image: img/lifeboat-heroshannon.jpg
 blurb:
-  heading: <>
-  text: Some text goes here.
+  heading: Donate
+  text: >-
+    If you have enjoyed viewing Whitby harbour through our station webcam please
+    consider leaving a donation here. All money raised helps our volunteers
+    continue to save lives at sea.
+
+
+    Donate Here
+
+
+    https://www.justgiving.com/fundraising/whitbyrnli
 intro:
   heading: Web Cam
   text: https://camsecure.uk/httpswebcam/whitbynci/whitbynci.html
